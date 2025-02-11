@@ -1,7 +1,7 @@
-#This repository contains implementations of key concepts in simulation and modeling, focusing on numerical computations, data visualization, and matrix operations using Python. The tasks include:
+#This repository contains implementations of key concepts in simulation and modeling, focusing on numerical computations, data visualization, and matrix operations using Python. The tasks include:<br/>
 
-Tasks:
-✅ Generate two vectors with 15 random floats each, plot them on the same graph, label the axes, and add a title.
+Tasks:<br/>
+✅ Generate two vectors with 15 random floats each, plot them on the same graph, label the axes, and add a title.<br/>
 ✅ Create a 4×4 matrix with random values, visualize it as a heatmap, and label the rows and columns.
 ✅ Generate two 4×4 matrices, perform addition, subtraction, and multiplication, visualize the results using bar plots, and analyze the effects.
 
